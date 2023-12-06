@@ -4,9 +4,11 @@ This repositority is forked from https://github.com/Ylannl/GoCoPP with updated c
 
 # Finding Good Configurations of Planar Primitives in Unorganized Point Clouds
 - [Link To Paper](https://hal.inria.fr/hal-03621896)
-- [Mulin Yu](http://www-sop.inria.fr/members/Mulin.Yu/), [Florent Lafarge](http://www-sop.inria.fr/members/Florent.Lafarge/) 
-- Inria - Université Côte d'Azur
-- firstname.lastname@inria.fr
+[Mulin Yu](http://www-sop.inria.fr/members/Mulin.Yu/), [Florent Lafarge](http://www-sop.inria.fr/members/Florent.Lafarge/) 
+
+Inria - Université Côte d'Azur
+
+firstname.lastname@inria.fr
 
 ## Citation
 
