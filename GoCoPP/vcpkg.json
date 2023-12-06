@@ -1,0 +1,23 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "builtin-baseline": "08c4e71048eb54733d9b180a28b9b1d7ce637454",
+  "dependencies": [
+    "boost",
+    "eigen3",
+    "cgal"
+  ],
+  "overrides": [
+    {
+      "name": "boost",
+      "version": "1.83.0"
+    },
+    {
+      "name": "eigen3",
+      "version": "3.4.0"
+    },
+    {
+      "name": "cgal",
+      "version": "5.2.2"
+    }
+  ]
+}

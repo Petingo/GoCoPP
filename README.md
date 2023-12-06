@@ -1,15 +1,17 @@
-# [Finding Good Configurations of Planar Primitives in Unorganized Point Clouds](https://hal.inria.fr/hal-03621896)
+This repositority is forked from https://github.com/Ylannl/GoCoPP with updated compile setting and instruction.
 
+---
+
+# Finding Good Configurations of Planar Primitives in Unorganized Point Clouds
+[Link To Paper] (https://hal.inria.fr/hal-03621896)
 [Mulin Yu](http://www-sop.inria.fr/members/Mulin.Yu/), [Florent Lafarge](http://www-sop.inria.fr/members/Florent.Lafarge/) 
-
 Inria - Université Côte d'Azur
-
 firstname.lastname@inria.fr
 
 ## Citation
 
 ```
-@INPROCEEDINGS{{Yu_cvpr22,
+@INPROCEEDINGS{Yu_cvpr22,
   Author = {Yu, Mulin and Lafarge, Florent},
   Title = {Finding Good Configurations of Planar Primitives in Unorganized Point Clouds},
   booktitle = {Proc. of the IEEE conference on Computer Vision and Pattern Recognition (CVPR)},
@@ -26,13 +28,9 @@ We present an algorithm for detecting planar primitives from unorganized 3D poin
 ## Requirement
 
 CGAL 5.2.2
-
 Eigen
-
 Boost_1_76_0
-
 CMake
-
 Visual Studio 2017
 
 ## Compile Guideline

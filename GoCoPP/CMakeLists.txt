@@ -1,3 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+project(GoCoPP)
+
 set(EXECUTABLE_OUTPUT_PATH ../bin/${CMAKE_BUILD_TYPE})
 
 find_package(Boost REQUIRED COMPONENTS filesystem)
@@ -10,7 +13,7 @@ else()
 	message(STATUS "NOTICE: This demo requires Boost and will not be compiled.")
 endif()
 
-find_package(CGAL)
+find_package(CGAL REQUIRED)
 
 if(${CGAL_FOUND})
 	include(${CGAL_USE_FILE})
